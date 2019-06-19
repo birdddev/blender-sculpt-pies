@@ -6,7 +6,8 @@ Adds sculpt pie menus operators
 
 ### Usage
     At the moment this only adds operator menus for four menus.
-    You can call these by setting a View 3D > Sculpt > Sculpt (Global) keymap value to wm.call_menu_pie and then the name to one of the four below
+    You can call these by setting a keymap in View 3D > Sculpt > Sculpt (Global) to wm.call_menu_pie 
+    and name to one of the four below
 
     The tools are grouped by their current icon color.
 
