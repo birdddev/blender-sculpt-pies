@@ -6,7 +6,7 @@ Adds sculpt pie menus operators
 
 ### Usage
     At the moment this only adds operator menus for four menus.
-    You can call these by setting a keymap value to wm.call_menu_pie and then the name to **BRDD_MT_color**
+    You can call these by setting a keymap value to wm.call_menu_pie and then the name to __BRDD_MT___***color***
 
     The tool are grouped by their current icon color.
 
