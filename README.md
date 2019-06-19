@@ -6,15 +6,15 @@ Adds sculpt pie menus operators
 
 ### Usage
     At the moment this only adds operator menus for four menus.
-    You can call these by setting a keymap value to wm.call_menu_pie and then the name to BRDD_MT_color
+    You can call these by setting a View 3D > Sculpt > Sculpt (Global) keymap value to wm.call_menu_pie and then the name to one of the four below
 
-    The tool are grouped by their current icon color.
+    The tools are grouped by their current icon color.
 
-  #### blue
+  #### BRDD_MT_blue
     Draw, Clay, Clay Strips, Layer, Blob, Crease
-  #### red
+  #### BRDD_MT_red
     Smooth, Flatten, Fill, Scrape, Pinch
-  #### yellow
+  #### BRDD_MT_yellow
     Grab, Snake Hook, Thumb, Nudge, Rotate
-  #### white
+  #### BRDD_MT_white
     Simplify, Mask, Box Mask, Box Hide
